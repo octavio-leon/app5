@@ -11,5 +11,5 @@ $('#vibrar'). tap(function(){
 navigator.notification.vibrate(1000);
 });//tap vibrar
 
-},falsee); //deviceready
+},false); //deviceready
 }); //ready
